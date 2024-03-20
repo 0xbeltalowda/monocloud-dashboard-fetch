@@ -1,0 +1,31 @@
+{
+  "name": "monocloud-dashboard-fetch",
+  "version": "1.0.0",
+  "description": "Fetch and analyze dashboard data, gaining valuable insights into cloud operations.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xbeltalowda/monocloud-dashboard-fetch"
+  },
+  "author": "0xbeltalowda",
+  "license": "MIT",
+  "dependencies": {
+    "monocloud-breakboard": "1.0.0",
+    "monocloud-dashboard-fetch": "1.0.0",
+    "redux": "1.0.0",
+    "debug": "1.0.0",
+    "chalk": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "nodemon": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "jquery": "1.0.0",
+    "babel-core": "1.0.0",
+    "webpack": "1.0.0",
+    "validator": "1.0.0",
+    "moment": "1.0.0",
+    "web3": "1.0.0"
+  }
+}
